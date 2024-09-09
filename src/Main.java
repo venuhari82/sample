@@ -18,6 +18,7 @@ public class Main {
         if (str.equals(str1)){
             System.out.println("Both values are equal");
         }
+        System.out.println("exist!..");
 
     }
 }
